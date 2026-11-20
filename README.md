@@ -9,8 +9,7 @@ Transformando dados em decisões estratégicas.
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-17304E?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
   <img src="https://img.shields.io/badge/Looker_Studio-22566C?style=for-the-badge&logo=looker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-5B3E96?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-17304E?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+   <img src="https://img.shields.io/badge/Python-17304E?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/SQL-22566C?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -19,7 +18,7 @@ Transformando dados em decisões estratégicas.
 
 Profissional de BI & Analytics apaixonada por transformar dados em decisões estratégicas.
 
-Atuo com dashboards, visualização de dados, storytelling analítico e construção de insights para negócios, unindo visão estratégica com tecnologia e experiência do usuário.
+Atuo com projetos de dados, dashboards, visualização de dados, storytelling analítico e construção de insights para negócios, unindo visão estratégica com tecnologia e experiência do usuário.
 
 💡 Interesse atual:
 - Business Intelligence
@@ -36,7 +35,6 @@ Atuo com dashboards, visualização de dados, storytelling analítico e constru�
 - Power BI
 - Looker Studio
 - Tableau
-- Metabase
 
 ## ☕ Fun fact
 
